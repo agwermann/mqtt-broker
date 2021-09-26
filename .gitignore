@@ -1,0 +1,4 @@
+mosquitto/data
+mosquitto/log
+
+mqtt-devices/venv/lib
